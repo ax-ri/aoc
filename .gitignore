@@ -29,4 +29,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-data/test.txt
+data/test*.txt
+venv/
+src/__pycache__/
