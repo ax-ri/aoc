@@ -1,4 +1,4 @@
-set_day!(day2);
+set_day!(day3);
 
 use std::fs;
 
