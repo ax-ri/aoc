@@ -1,4 +1,6 @@
-set_day!(day4);
+extern crate core;
+
+set_day!(day5);
 
 use std::fs;
 
